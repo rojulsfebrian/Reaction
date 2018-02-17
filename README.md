@@ -14,5 +14,5 @@ Sebelumnya kita install dulu package nya :
 <br>==> apt install php
 <p>
   <br>
-Jika semua sudah kita cukupenjalankan dengan command berijut :
+Jika semua sudah kita cukup jalankan dengan command berikut :
 <br>==> <font color="green">php jembut-kobong.php</font>
