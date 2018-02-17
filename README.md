@@ -15,4 +15,4 @@ Sebelumnya kita install dulu package nya :
 <p>
   <br>
 Jika semua sudah kita cukupenjalankan dengan command berijut :
-<br>==> php jembut-kobong.php
+<br>==> <font color="green">php jembut-kobong.php</font>
