@@ -1,7 +1,7 @@
 # Reaction
 New Reaction Facebook
 <br>Edit file jembut-kobong.php
-<br,Ganti email , password dan token 
+<br>Ganti email , password dan token 
 
 <p>
   <p>
