@@ -1,15 +1,18 @@
 # Reaction
 New Reaction Facebook
-Edit file jembut-kobong.php
-Ganti email , password dan token 
+<br>Edit file jembut-kobong.php
+<br,Ganti email , password dan token 
 
-
+<p>
+  <p>
+    <br>
 Sebelumnya kita install dulu package nya :
-==> apt updatr && apt upgrade
-==> apt install python2
-==> apt install git
-==> git clone https://github.com/rojulsfebrian/Reaction.git
-==> pkg install php
-
+<br>==> apt updatr && apt upgrade
+<br>==> apt install python2
+<br>==> apt install git
+<br>==> git clone <font color="green">https://github.com/rojulsfebrian/Reaction.git</font>
+<br>==> pkg install php
+<p>
+  <br>
 Jika semua sudah kita cukupenjalankan dengan command berijut :
-==> php jembut-kobong.php
+<br>==> php jembut-kobong.php
